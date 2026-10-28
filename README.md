@@ -13,3 +13,5 @@ npm run build   # check everything builds
 - Charts: `src/lib/components/dashboard/`
 
 See `CLAUDE.md` for the working rules.
+
+> Test note: this line was added to check that changes deploy. It can be removed.
